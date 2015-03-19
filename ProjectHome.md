@@ -1,0 +1,1 @@
+This project maintains source codes submitted for the open track of the Error Detection and Correction Workshop 2012.
