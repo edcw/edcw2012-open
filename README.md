@@ -4,6 +4,6 @@ This project maintains source codes submitted for the open track of the Error De
 
 This repository contains three branches corresponding to the submitted systems. Please switch to the branch you would like to see.
 
-* NAIST
-* ngan
-* okayamaU
+* [NAIST](https://github.com/edcw/edcw2012-open/tree/NAIST)
+* [ngan](https://github.com/edcw/edcw2012-open/tree/ngan)
+* [okayamaU](https://github.com/edcw/edcw2012-open/tree/okayamaU)
